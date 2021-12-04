@@ -45,11 +45,10 @@ Application Details :
   - https://apps.powerapps.com/play/cba002b2-7fcc-4a02-807c-cc5edc751ca7?tenantId=c5ef186e-1ed0-4e0b-8b12-df22547dc0b7
     
   **NOTE** : The application is designed and developed on the Microsoft Power Platform
-             - To run the app, the user needs to download the Windows or Android version of **_Power Apps Official Software by Microsoft_**. 
-             - The other way is to **_sign in_** at the Power Apps portal in the web browser
-    But, due to the limitations of the _Power Platform_, the app can be run only by the members of the organization that the app is shared with. To run the application by the external users, it is must to share the data connections of the app including credentials with the users, which is not possible due to the privacy issues
+    - To run the app, the user needs to download the Windows or Android version of **_Power Apps Official Software by Microsoft_**. 
+    - The other way is to **_sign in_** at the Power Apps portal in the web browser. But, due to the limitations of the _Power Platform_, the app can be run only by the members of the organization that the app is shared with. To run the application by the external users, it is must to share the data connections of the app including credentials with the users, which is not possible due to the privacy issues.
     
-    So, on the demand of the FRT Mentors, below are the _Demo_ vedios of the app
+    So, on the demand of the FRT Mentors, below are the _Demo_ vedios of the app -
     
 - Android Demo
     
@@ -59,4 +58,31 @@ Application Details :
     
     https://user-images.githubusercontent.com/64969815/144702971-3e29f359-b4dd-40da-bb61-667d0528c3e8.mp4
 
+- App Versions
+  - Below are all the versions of the app right from the early stages of development to a finished one (Version 5 is LIVE and Version 6 is in development) 
+    <p align="left">
+    <img src="README/AppVersions.PNG" width=1000>
+    </p>
 
+- Components of the App :
+  - Azure Power Automate Flows (Two Flows for Sign Up and Sign In)
+    <p align="left">
+    <img src="README/Flows.PNG" width=1000>
+    </p>
+  
+  - Power Virtual Agents Bot Analytics 
+    <p align="left">
+    <img src="README/BotAnalytics.PNG" width=1000>
+    </p>
+   
+  - App Analytics and Monitoring
+    <p align="left">
+    <img src="README/AppAnalytics_1.PNG" width=1000>
+    </p>
+    
+    <p align="left">
+    <img src="README/AppAnalytics_2.PNG" width=1000>
+    </p> 
+
+- Special Feature :
+  - We can embed the app in Microsoft Teams for more collaboration inside an organization
